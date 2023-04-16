@@ -12,7 +12,6 @@ This is an open problem. 196 is the smallest number for which a palindrome hasn'
 
 use std::vec;
 
-//type BigDec = vec::Vec<u8>;
 struct BigDec {
     digits: vec::Vec<u8>,
 }
